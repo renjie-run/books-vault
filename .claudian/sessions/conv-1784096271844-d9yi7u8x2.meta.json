@@ -1,0 +1,25 @@
+{
+  "id": "conv-1784096271844-d9yi7u8x2",
+  "providerId": "opencode",
+  "title": "整理下这篇文档",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1784096271849,
+  "updatedAt": 1784097868195,
+  "lastResponseAt": 1784097803750,
+  "sessionId": "ses_09b934dbdffeNUbUHhF9DzJXsx",
+  "selectedModel": "opencode:seafile-ai-proxy/deepseek-v4-pro",
+  "providerState": {
+    "databasePath": "/Users/renjie/.local/share/opencode/opencode.db"
+  },
+  "currentNote": "src/AI/temp.md",
+  "usage": {
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 12032,
+    "contextTokens": 17536,
+    "contextWindow": 0,
+    "contextWindowIsAuthoritative": false,
+    "inputTokens": 4811,
+    "model": "opencode:seafile-ai-proxy/deepseek-v4-pro",
+    "percentage": 0
+  }
+}
