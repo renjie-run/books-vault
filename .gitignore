@@ -1,6 +1,5 @@
-.obsidian
-.claude
-.claudian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
 
 # misc
 .DS_Store
