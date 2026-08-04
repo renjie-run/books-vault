@@ -146,7 +146,7 @@ print(response.choices[0].message.tool_calls)
 }
 ```
 
-> 🔗 关联阅读：你 vault 中的 [[02.prompt]] 提到「Prompt = 设计文档 + 我们要让他做的事情」，工具定义本质上也是一种 Prompt 工程。
+> 🔗 关联阅读：你 vault 中的 [[../01-Porjects/AI/02.prompt]] 提到「Prompt = 设计文档 + 我们要让他做的事情」，工具定义本质上也是一种 Prompt 工程。
 
 ## 2.3 Planning —— 让 Agent 会思考
 
@@ -608,4 +608,4 @@ metrics = {
 
 > 💡 **下一步**：建议从 1.4 节的 Demo 开始动手，然后根据你的实际需求选择一个框架深入。LLM 时代的学习关键是 **"先跑起来，边做边学"**。
 >
-> 🔗 关联你 Vault 中的笔记：[[01.start|名词解释]] | [[02.prompt|Prompt 工程]] | [[03.guidelines|Vibe Coding 准则]] | [[04.OpenDesign|Open Design]]
+> 🔗 关联你 Vault 中的笔记：[[../01-Porjects/AI/01.start|名词解释]] | [[../01-Porjects/AI/02.prompt|Prompt 工程]] | [[../01-Porjects/AI/03.guidelines|Vibe Coding 准则]] | [[../01-Porjects/AI/04.OpenDesign|Open Design]]
