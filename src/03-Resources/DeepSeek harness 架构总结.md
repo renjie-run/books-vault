@@ -117,6 +117,12 @@ profile 里列出的 bundle（按顺序）
 
 > dsh 是靠 Cordis 运行时把「一堆插件」叠成「插件树」的 agent 框架；每个能力是「接口 + 提供方 + 消费者」三件套的接缝；扩展 = 在正确的扩展点上挂插件或换 provider；模型看到的一切都从日志来。
 
+## 高层结构图（Excalidraw）
+
+![[../01-Porjects/AI/assets/DeepSeek Harness/DeepSeek Harness 高层结构图.excalidraw]]
+
+图中整合了本章的核心关系：插件化原则、Cordis Context、能力接缝三件套、Profile/Bundle 的分层配置、Turn/Step 执行流，以及「模型所见必须来自会话日志」这一不变式。
+
 ## 下一步
 
 - 第 2 章：环境与运行，看 `--dump-config` 的插件树
