@@ -8,7 +8,7 @@ tags:
 
 # DeepSeek Harness 高层结构图
 
-> 基于 [[../../../../03-Resources/DeepSeek harness 架构总结]] 第 1 章内容绘制。
+> 基于 [[../../05.DeepSeek Harness]] 的架构内容绘制。
 
 ==⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
